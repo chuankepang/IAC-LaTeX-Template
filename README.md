@@ -5,7 +5,7 @@
 
 ## Info
 This template is refined from [International-Astronautical-Congress-LaTeX-template
-](https://github.com/dave-ai/International-Astronautical-Congress-LaTeX-template), which is based on [IAC 2024 template](https://www.iafastro.org/assets/files/events/iac/2024/IAC%202024%20Manuscript_Template.doc).
+](https://github.com/dave-ai/International-Astronautical-Congress-LaTeX-template) and [IAC-2024-latex-template](https://github.com/alopezrivera/IAC-2024-latex-template), which is based on [IAC 2024 template](https://www.iafastro.org/assets/files/events/iac/2024/IAC%202024%20Manuscript_Template.doc).
 
 Authors: 
 1) John O. Woods, Ph.D. (original author)  
