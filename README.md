@@ -9,17 +9,17 @@ This template is refined from [International-Astronautical-Congress-LaTeX-templa
 
 Authors: 
 1) John O. Woods, Ph.D. (original author)  
-West Virginia University Applied Space Exploration Laboratory  
-john.o.woods@gmail.com  
+   West Virginia University Applied Space Exploration Laboratory  
+   john.o.woods@gmail.com  
 
 2) Davide Grande  
-University College London (UCL)  
-davide.grande.19@ucl.ac.uk  
+   University College London (UCL)  
+   davide.grande.19@ucl.ac.uk  
 
-3) Stefano Farì
-German Aerospace Center (DLR)  
-stefano.fari@dlr.de
+3. Stefano Farì  
+   German Aerospace Center (DLR)  
+   stefano.fari@dlr.de
 
-4) Chuanke Pang (current maintainer)
-Beihang University
-chuankepang@buaa.edu.cn
+5. Chuanke Pang (main maintainer)  
+   Beihang University  
+   chuankepang@buaa.edu.cn
