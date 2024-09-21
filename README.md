@@ -21,5 +21,5 @@ Authors:
    stefano.fari@dlr.de
 
 5. Chuanke Pang (main maintainer)  
-   Beihang University  
+   Beihang University (BUAA)  
    chuankepang@buaa.edu.cn
